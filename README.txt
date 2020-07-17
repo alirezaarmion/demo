@@ -1,0 +1,3 @@
+This is just a text for the changes 
+
+to be seen in the git repository ... 
